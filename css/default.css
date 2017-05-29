@@ -68,7 +68,7 @@ div.img#faq {background-position: 0 -184px;}
 	float: left;
 	width: 156px;
 	border-right: white 1px solid;
-	list-style-type;
+	list-style-type: none;
 }
 
 #gnav li:first-child{
