@@ -3,6 +3,12 @@
 body{
   background-color: mediumaquamarine;
 }
+#gnac a.selected {
+	background: white;
+	color: darkgreen;
+	font-weight: bold;
+}
+
 #gnav a {
 	display: block;
 	padding:10px 0;
